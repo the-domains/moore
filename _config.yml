@@ -1,0 +1,14 @@
+layout_spectrum: 0.3592902
+typography_spectrum: 0.2095207
+color:
+  saturation: 0.02132435
+  lightness: 0.9206693
+  brandStrength: 0.07276633
+  rhythmicContrast: 0.915275
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: moore
